@@ -1,0 +1,22 @@
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 3C\Lab 3C\bin\Debug\Lab 3C.exe.config
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 3C\Lab 3C\bin\Debug\Lab 3C.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 3C\Lab 3C\bin\Debug\Lab 3C.pdb
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 3C\Lab 3C\obj\Debug\Lab 3C.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 3C\Lab 3C\obj\Debug\Lab 3C.pdb
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 3C\Lab 3C\obj\Debug\Lab 3C.csprojAssemblyReference.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 3C\Lab 3C\obj\Debug\Lab 3C.csproj.CoreCompileInputs.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 3C\Lab 3C\bin\Debug\Lab 3C.exe.config
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 3C\Lab 3C\bin\Debug\Lab 3C.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 3C\Lab 3C\bin\Debug\Lab 3C.pdb
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 3C\Lab 3C\obj\Debug\Lab 3C.csprojAssemblyReference.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 3C\Lab 3C\obj\Debug\Lab 3C.csproj.CoreCompileInputs.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 3C\Lab 3C\obj\Debug\Lab 3C.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 3C\Lab 3C\obj\Debug\Lab 3C.pdb
+C:\Users\bayle\dev\fullsail\programming1\Lab 3C\Lab 3C\obj\Debug\Lab 3C.csproj.AssemblyReference.cache
+C:\Users\bayle\dev\fullsail\programming1\Lab 3C\Lab 3C\obj\Debug\Lab 3C.csproj.SuggestedBindingRedirects.cache
+C:\Users\bayle\dev\fullsail\programming1\Lab 3C\Lab 3C\obj\Debug\Lab 3C.csproj.CoreCompileInputs.cache
+C:\Users\bayle\dev\fullsail\programming1\Lab 3C\Lab 3C\obj\Debug\Lab 3C.exe
+C:\Users\bayle\dev\fullsail\programming1\Lab 3C\Lab 3C\obj\Debug\Lab 3C.pdb
+C:\Users\bayle\dev\fullsail\programming1\Lab 3C\Lab 3C\bin\Debug\Lab 3C.exe.config
+C:\Users\bayle\dev\fullsail\programming1\Lab 3C\Lab 3C\bin\Debug\Lab 3C.exe
+C:\Users\bayle\dev\fullsail\programming1\Lab 3C\Lab 3C\bin\Debug\Lab 3C.pdb

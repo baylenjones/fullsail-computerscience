@@ -1,0 +1,28 @@
+C:\Users\marty\Documents\PG1\Working\Lab 2\Lab 2\bin\Debug\Lab 2.exe.config
+C:\Users\marty\Documents\PG1\Working\Lab 2\Lab 2\bin\Debug\Lab 2.exe
+C:\Users\marty\Documents\PG1\Working\Lab 2\Lab 2\bin\Debug\Lab 2.pdb
+C:\Users\marty\Documents\PG1\Working\Lab 2\Lab 2\obj\Debug\Lab 2.exe
+C:\Users\marty\Documents\PG1\Working\Lab 2\Lab 2\obj\Debug\Lab 2.pdb
+C:\Users\marty\Documents\PG1\Working\Lab 2\Lab 2\obj\Debug\Lab 2.csprojAssemblyReference.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 2\Lab 2\bin\Debug\Lab 2.exe.config
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 2\Lab 2\bin\Debug\Lab 2.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 2\Lab 2\bin\Debug\Lab 2.pdb
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 2\Lab 2\obj\Debug\Lab 2.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 2\Lab 2\obj\Debug\Lab 2.pdb
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.CoreCompileInputs.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 2\Lab 2\obj\Debug\Lab 2.csprojAssemblyReference.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 2\Lab 2\bin\Debug\Lab 2.exe.config
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 2\Lab 2\bin\Debug\Lab 2.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 2\Lab 2\bin\Debug\Lab 2.pdb
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 2\Lab 2\obj\Debug\Lab 2.csprojAssemblyReference.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.CoreCompileInputs.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 2\Lab 2\obj\Debug\Lab 2.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 2\Lab 2\obj\Debug\Lab 2.pdb
+C:\Users\bayle\dev\fullsail\programming1\Lab2\Lab2\Lab 2\Lab 2\bin\Debug\Lab 2.exe.config
+C:\Users\bayle\dev\fullsail\programming1\Lab2\Lab2\Lab 2\Lab 2\bin\Debug\Lab 2.exe
+C:\Users\bayle\dev\fullsail\programming1\Lab2\Lab2\Lab 2\Lab 2\bin\Debug\Lab 2.pdb
+C:\Users\bayle\dev\fullsail\programming1\Lab2\Lab2\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.AssemblyReference.cache
+C:\Users\bayle\dev\fullsail\programming1\Lab2\Lab2\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\bayle\dev\fullsail\programming1\Lab2\Lab2\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.CoreCompileInputs.cache
+C:\Users\bayle\dev\fullsail\programming1\Lab2\Lab2\Lab 2\Lab 2\obj\Debug\Lab 2.exe
+C:\Users\bayle\dev\fullsail\programming1\Lab2\Lab2\Lab 2\Lab 2\obj\Debug\Lab 2.pdb

@@ -1,0 +1,36 @@
+C:\Users\marty\Documents\PG1\Working\Debug Exercise\Debug Exercise\bin\Debug\Debug Exercise.exe.config
+C:\Users\marty\Documents\PG1\Working\Debug Exercise\Debug Exercise\bin\Debug\Debug Exercise.exe
+C:\Users\marty\Documents\PG1\Working\Debug Exercise\Debug Exercise\bin\Debug\Debug Exercise.pdb
+C:\Users\marty\Documents\PG1\Working\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.exe
+C:\Users\marty\Documents\PG1\Working\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.pdb
+C:\Users\marty\Documents\PG1\Working\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.csprojAssemblyReference.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.csproj.CoreCompileInputs.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.pdb
+C:\Users\marty\Documents\PG1\Working\FSO Version\Debug Exercise\Debug Exercise\bin\Debug\Debug Exercise.exe.config
+C:\Users\marty\Documents\PG1\Working\FSO Version\Debug Exercise\Debug Exercise\bin\Debug\Debug Exercise.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Debug Exercise\Debug Exercise\bin\Debug\Debug Exercise.pdb
+C:\Users\marty\Documents\PG1\Working\FSO Version\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.csprojAssemblyReference.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Debug Exercise\Debug Exercise\bin\Debug\Debug Exercise.exe.config
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Debug Exercise\Debug Exercise\bin\Debug\Debug Exercise.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Debug Exercise\Debug Exercise\bin\Debug\Debug Exercise.pdb
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.csprojAssemblyReference.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.csproj.CoreCompileInputs.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.pdb
+C:\Users\bayle\Downloads\Lab2\Lab2\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.csproj.AssemblyReference.cache
+C:\Users\bayle\Downloads\Lab2\Lab2\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\bayle\Downloads\Lab2\Lab2\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.csproj.CoreCompileInputs.cache
+C:\Users\bayle\Downloads\Lab2\Lab2\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.exe
+C:\Users\bayle\Downloads\Lab2\Lab2\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.pdb
+C:\Users\bayle\Downloads\Lab2\Lab2\Debug Exercise\Debug Exercise\bin\Debug\Debug Exercise.exe.config
+C:\Users\bayle\Downloads\Lab2\Lab2\Debug Exercise\Debug Exercise\bin\Debug\Debug Exercise.exe
+C:\Users\bayle\Downloads\Lab2\Lab2\Debug Exercise\Debug Exercise\bin\Debug\Debug Exercise.pdb
+C:\Users\bayle\dev\fullsail\programming1\Lab2\Lab2\Debug Exercise\Debug Exercise\bin\Debug\Debug Exercise.exe.config
+C:\Users\bayle\dev\fullsail\programming1\Lab2\Lab2\Debug Exercise\Debug Exercise\bin\Debug\Debug Exercise.exe
+C:\Users\bayle\dev\fullsail\programming1\Lab2\Lab2\Debug Exercise\Debug Exercise\bin\Debug\Debug Exercise.pdb
+C:\Users\bayle\dev\fullsail\programming1\Lab2\Lab2\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.csproj.AssemblyReference.cache
+C:\Users\bayle\dev\fullsail\programming1\Lab2\Lab2\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\bayle\dev\fullsail\programming1\Lab2\Lab2\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.csproj.CoreCompileInputs.cache
+C:\Users\bayle\dev\fullsail\programming1\Lab2\Lab2\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.exe
+C:\Users\bayle\dev\fullsail\programming1\Lab2\Lab2\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.pdb
