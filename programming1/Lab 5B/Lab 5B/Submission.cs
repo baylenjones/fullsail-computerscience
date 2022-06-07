@@ -95,6 +95,17 @@ namespace FSPG1
         // otherwise return false.
         public static bool Test5(int number)
         {
+            if(number > 1)
+            {
+                for (int x = 2; x < number; x++)
+                {
+                    if (number % x == 0)
+                    {
+                        return false;
+                    }
+                }
+                return true;
+            }
             return false;
         }
 
@@ -105,7 +116,15 @@ namespace FSPG1
         // starting value of A followed by the next 4 letters, in order) 
         public static string Test6(char starter, int number)
         {
-            return null;
+            int start = (int)starter;
+            string results = "";
+            for(int x = start; x != (start + number); x++)
+            {
+                char letter = (char)x;
+                string newString = letter.ToString();
+                results = results + newString;
+            }
+            return results;
         }
 
         // Test 7 - Making change
