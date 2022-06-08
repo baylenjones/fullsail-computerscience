@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{73DC4358-9787-4DD5-89F8-01A5D4BAD9AF}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lab_2205B PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab 5B/Submission.cs">
+    <Files>
+      <File FileName="Lab 5B/Submission.cs" Line="226" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab 5B" expanded="True">
+            <Node name="Lab 5B" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

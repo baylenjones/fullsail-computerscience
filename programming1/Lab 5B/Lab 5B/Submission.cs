@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using Tester;
 
 namespace FSPG1
@@ -141,7 +142,41 @@ namespace FSPG1
         // results of each computation to 2 decimal places.
         public static int Test7(double amount)
         {
-            return 0;
+            int coins = 0;
+            double total = 0;
+
+            if(amount != 0)
+            {
+                while((total + 0.25) <= amount)
+                {
+                    coins += 1;
+                    total += 0.25;
+                    total = Math.Round(total, 2);
+                }
+
+                while ((total + 0.10) <= amount)
+                {
+                    coins += 1;
+                    total += 0.10;
+                    total = Math.Round(total, 2);
+                }
+
+                while ((total + 0.05) <= amount)
+                {
+                    coins += 1;
+                    total += 0.05;
+                    total = Math.Round(total, 2);
+                }
+
+                while (total < amount)
+                {
+                    coins += 1;
+                    total += 0.01;
+                    total = Math.Round(total, 2);
+                }
+            }
+
+            return coins;
         }
 
         // Test 8 – Return the multiples
@@ -152,7 +187,15 @@ namespace FSPG1
         // would be 5 10 15 20 25 30 35
         public static string Test8(int factor, int qty)
         {
-            return null;
+            string factorList = "";
+            string newString = "";
+
+            for (int x = 1; x <= qty; x++)
+            {
+                newString = $"{factor * x} ";
+                factorList += newString;
+            }
+            return factorList;
         }
 
         // Test 9 – Sum of values
@@ -161,7 +204,12 @@ namespace FSPG1
         // (end), the result is 135
         public static int Test9(int start, int end)
         {
-            return 0;
+            int sum = 0;
+            for (int x = start; x <= end; x++)
+            {
+                sum += x;
+            }
+            return sum;
         }
 
         // Test 10 – Sum of values
@@ -175,7 +223,15 @@ namespace FSPG1
         // declare/instantiate another Random object
         public static int Test10(Random gener, int min, int max, int qty)
         {
-            return 0;
+            int sum = 0;
+
+            for (int x = 0; x < qty; x++)
+            {
+                sum += gener.Next(min, max);
+
+            }
+
+            return sum;
         }
     }
 }
