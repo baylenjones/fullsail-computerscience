@@ -96,18 +96,22 @@ namespace FSPG1
         // otherwise return false.
         public static bool Test5(int number)
         {
-            if(number > 1)
+            bool result = true;
+
+            for (int x = 2; x < number; x++)
             {
-                for (int x = 2; x < number; x++)
+                if (number % x == 0)
                 {
-                    if (number % x == 0)
-                    {
-                        return false;
-                    }
+                    result = false;
                 }
-                return true;
             }
-            return false;
+
+            if(number < 2)
+            {
+                result = false;
+            }
+
+            return result;
         }
 
         // Test 6 - Build a string

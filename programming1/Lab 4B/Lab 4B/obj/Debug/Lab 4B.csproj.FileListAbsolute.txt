@@ -1,22 +1,29 @@
-C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 4B\Lab 4B\obj\Debug\Lab 4B.csproj.CoreCompileInputs.cache
-C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 4B\Lab 4B\bin\Debug\Lab 4B.exe.config
-C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 4B\Lab 4B\bin\Debug\Lab 4B.exe
-C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 4B\Lab 4B\bin\Debug\Lab 4B.pdb
-C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 4B\Lab 4B\obj\Debug\Lab 4B.exe
-C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 4B\Lab 4B\obj\Debug\Lab 4B.pdb
-C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 4B\Lab 4B\obj\Debug\Lab 4B.csprojAssemblyReference.cache
-C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 4B\Lab 4B\bin\Debug\Lab 4B.exe.config
-C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 4B\Lab 4B\bin\Debug\Lab 4B.exe
-C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 4B\Lab 4B\bin\Debug\Lab 4B.pdb
-C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 4B\Lab 4B\obj\Debug\Lab 4B.csprojAssemblyReference.cache
-C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 4B\Lab 4B\obj\Debug\Lab 4B.csproj.CoreCompileInputs.cache
-C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 4B\Lab 4B\obj\Debug\Lab 4B.exe
-C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 4B\Lab 4B\obj\Debug\Lab 4B.pdb
-C:\Users\bayle\dev\fullsail\programming1\Lab 4B\Lab 4B\bin\Debug\Lab 4B.exe.config
-C:\Users\bayle\dev\fullsail\programming1\Lab 4B\Lab 4B\bin\Debug\Lab 4B.exe
-C:\Users\bayle\dev\fullsail\programming1\Lab 4B\Lab 4B\bin\Debug\Lab 4B.pdb
-C:\Users\bayle\dev\fullsail\programming1\Lab 4B\Lab 4B\obj\Debug\Lab 4B.csproj.AssemblyReference.cache
-C:\Users\bayle\dev\fullsail\programming1\Lab 4B\Lab 4B\obj\Debug\Lab 4B.csproj.SuggestedBindingRedirects.cache
-C:\Users\bayle\dev\fullsail\programming1\Lab 4B\Lab 4B\obj\Debug\Lab 4B.csproj.CoreCompileInputs.cache
-C:\Users\bayle\dev\fullsail\programming1\Lab 4B\Lab 4B\obj\Debug\Lab 4B.exe
-C:\Users\bayle\dev\fullsail\programming1\Lab 4B\Lab 4B\obj\Debug\Lab 4B.pdb
+C:/Users/marty/Documents/PG1/Working/FSO Version/Lab 4B/Lab 4B/obj/Debug/Lab 4B.csproj.CoreCompileInputs.cache
+C:/Users/marty/Documents/PG1/Working/FSO Version/Lab 4B/Lab 4B/bin/Debug/Lab 4B.exe.config
+C:/Users/marty/Documents/PG1/Working/FSO Version/Lab 4B/Lab 4B/bin/Debug/Lab 4B.exe
+C:/Users/marty/Documents/PG1/Working/FSO Version/Lab 4B/Lab 4B/bin/Debug/Lab 4B.pdb
+C:/Users/marty/Documents/PG1/Working/FSO Version/Lab 4B/Lab 4B/obj/Debug/Lab 4B.exe
+C:/Users/marty/Documents/PG1/Working/FSO Version/Lab 4B/Lab 4B/obj/Debug/Lab 4B.pdb
+C:/Users/marty/Documents/PG1/Working/FSO Version/Lab 4B/Lab 4B/obj/Debug/Lab 4B.csprojAssemblyReference.cache
+C:/Users/marty/Documents/PG1/Working/FSO Version/Labs/Lab 4B/Lab 4B/bin/Debug/Lab 4B.exe.config
+C:/Users/marty/Documents/PG1/Working/FSO Version/Labs/Lab 4B/Lab 4B/bin/Debug/Lab 4B.exe
+C:/Users/marty/Documents/PG1/Working/FSO Version/Labs/Lab 4B/Lab 4B/bin/Debug/Lab 4B.pdb
+C:/Users/marty/Documents/PG1/Working/FSO Version/Labs/Lab 4B/Lab 4B/obj/Debug/Lab 4B.csprojAssemblyReference.cache
+C:/Users/marty/Documents/PG1/Working/FSO Version/Labs/Lab 4B/Lab 4B/obj/Debug/Lab 4B.csproj.CoreCompileInputs.cache
+C:/Users/marty/Documents/PG1/Working/FSO Version/Labs/Lab 4B/Lab 4B/obj/Debug/Lab 4B.exe
+C:/Users/marty/Documents/PG1/Working/FSO Version/Labs/Lab 4B/Lab 4B/obj/Debug/Lab 4B.pdb
+C:/Users/bayle/dev/fullsail/programming1/Lab 4B/Lab 4B/bin/Debug/Lab 4B.exe.config
+C:/Users/bayle/dev/fullsail/programming1/Lab 4B/Lab 4B/bin/Debug/Lab 4B.exe
+C:/Users/bayle/dev/fullsail/programming1/Lab 4B/Lab 4B/bin/Debug/Lab 4B.pdb
+C:/Users/bayle/dev/fullsail/programming1/Lab 4B/Lab 4B/obj/Debug/Lab 4B.csproj.AssemblyReference.cache
+C:/Users/bayle/dev/fullsail/programming1/Lab 4B/Lab 4B/obj/Debug/Lab 4B.csproj.SuggestedBindingRedirects.cache
+C:/Users/bayle/dev/fullsail/programming1/Lab 4B/Lab 4B/obj/Debug/Lab 4B.csproj.CoreCompileInputs.cache
+C:/Users/bayle/dev/fullsail/programming1/Lab 4B/Lab 4B/obj/Debug/Lab 4B.exe
+C:/Users/bayle/dev/fullsail/programming1/Lab 4B/Lab 4B/obj/Debug/Lab 4B.pdb
+/Users/baylenjones/dev/fullsail/programming1/Lab 4B/Lab 4B/bin/Debug/Lab 4B.exe.config
+/Users/baylenjones/dev/fullsail/programming1/Lab 4B/Lab 4B/bin/Debug/Lab 4B.exe
+/Users/baylenjones/dev/fullsail/programming1/Lab 4B/Lab 4B/bin/Debug/Lab 4B.pdb
+/Users/baylenjones/dev/fullsail/programming1/Lab 4B/Lab 4B/obj/Debug/Lab 4B.csproj.AssemblyReference.cache
+/Users/baylenjones/dev/fullsail/programming1/Lab 4B/Lab 4B/obj/Debug/Lab 4B.csproj.CoreCompileInputs.cache
+/Users/baylenjones/dev/fullsail/programming1/Lab 4B/Lab 4B/obj/Debug/Lab 4B.exe
+/Users/baylenjones/dev/fullsail/programming1/Lab 4B/Lab 4B/obj/Debug/Lab 4B.pdb

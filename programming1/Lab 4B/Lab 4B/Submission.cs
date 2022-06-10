@@ -15,13 +15,13 @@ namespace FSPG1
         // If it is a multiple return true, otherwise, return false.
         public static bool Test1(int num1, int num2)
         {
+            bool results = true;
             if (num1 % num2 != 0)
             {
-                return false;
+                results = false;
             }
-            else {
-                return true;
-            }
+
+            return results;
         }
 
         // Given two doubles, fahrenheit and celsius, determine if they are equal temperatures. 
@@ -31,14 +31,13 @@ namespace FSPG1
         // Fahrenheit = (celsius* 9.0 / 5.0) + 32.0
         public static bool Test2(double fahrenheit, double celsius)
         {
+            bool results = false;
             double result = (fahrenheit - 32.0) * (5.0 / 9.0);
             if(result == celsius)
             {
-                return true;
+                results = true;
             }
-            else {
-            return false;
-            }
+            return results;
         }
 
         // Given the grade variable, which indicates a student's numeric grade, 
@@ -57,29 +56,29 @@ namespace FSPG1
 
         public static char Test3(double grade)
         {
+            char result = '?';
+
             if(grade >= 90 && grade <= 100) {
-                return 'A';
+                result = 'A';
             }
             else if(grade >= 80 && grade < 90)
             {
-                return 'B';
+                result = 'B';
             }
             else if (grade >= 73 && grade < 80)
             {
-                return 'C';
+                result = 'C';
             }
             else if (grade >= 70 && grade < 73)
             {
-                return 'D';
+                result = 'D';
             }
             else if (grade >= 0 && grade < 70)
             {
-                return 'F';
+                result = 'F';
             }
-            else
-            {
-                return '?';
-            }
+
+            return result;
         }
 
         // Given two doubles (num1 and num2) and a MathOperator, an enum,
@@ -121,23 +120,22 @@ namespace FSPG1
 
         public static int Test5(int speed)
         {
+            int result = 3;
+
             if (speed <= 5)
             {
-                return 0;
+                result = 0;
             }
             else if (speed > 5 && speed <= 10)
             {
-                return 1;
+                result = 1;
             }
             else if (speed > 10 && speed <= 25)
             {
-                return 2;
+                result = 2;
             }
-            else if (speed > 25)
-            {
-                return 3;
-            }
-            return 0;
+
+            return result;
         }
 
         // Given two Point objects, determine if they two Point objects 
@@ -157,13 +155,13 @@ namespace FSPG1
         public static bool Test7(double price, double taxRate, double cashOnHand)
         {
             double result = (price + (price * taxRate));
+            bool answer = true;
+
             if(result > cashOnHand)
             {
-                return false;
-            } else
-            {
-                return true;
+                answer = false;
             }
+            return answer;
         }
 
         // Given a distance in miles and a distance in kilometers, determine
@@ -173,13 +171,14 @@ namespace FSPG1
         public static double Test8(double miles, double kilometers)
         {
             double result = (miles * 1.609);
+            double answer = miles;
+
             if (result < kilometers)
             {
-                return kilometers;
-            } else
-            {
-                return miles;
+                answer = kilometers;
             }
+
+            return answer;
         }
     }
 }
