@@ -1,0 +1,13 @@
+C:/Users/Joey/Desktop/student/Practice/bin/Debug/Practice.exe.config
+C:/Users/Joey/Desktop/student/Practice/bin/Debug/Practice.exe
+C:/Users/Joey/Desktop/student/Practice/bin/Debug/Practice.pdb
+C:/Users/Joey/Desktop/student/Practice/obj/Debug/Practice.csprojResolveAssemblyReference.cache
+C:/Users/Joey/Desktop/student/Practice/obj/Debug/Practice.exe
+C:/Users/Joey/Desktop/student/Practice/obj/Debug/Practice.pdb
+/Users/baylenjones/dev/fullsail/programming1/Practice/obj/Debug/Practice.csproj.AssemblyReference.cache
+/Users/baylenjones/dev/fullsail/programming1/Practice/obj/Debug/Practice.csproj.CoreCompileInputs.cache
+/Users/baylenjones/dev/fullsail/programming1/Practice/obj/Debug/Practice.exe
+/Users/baylenjones/dev/fullsail/programming1/Practice/obj/Debug/Practice.pdb
+/Users/baylenjones/dev/fullsail/programming1/Practice/bin/Debug/Practice.exe.config
+/Users/baylenjones/dev/fullsail/programming1/Practice/bin/Debug/Practice.exe
+/Users/baylenjones/dev/fullsail/programming1/Practice/bin/Debug/Practice.pdb

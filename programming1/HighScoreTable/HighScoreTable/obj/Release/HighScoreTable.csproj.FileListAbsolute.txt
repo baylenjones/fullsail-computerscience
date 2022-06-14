@@ -1,0 +1,7 @@
+/Users/baylenjones/dev/fullsail/programming1/HighScoreTable/HighScoreTable/bin/Release/HighScoreTable.exe.config
+/Users/baylenjones/dev/fullsail/programming1/HighScoreTable/HighScoreTable/bin/Release/HighScoreTable.exe
+/Users/baylenjones/dev/fullsail/programming1/HighScoreTable/HighScoreTable/bin/Release/HighScoreTable.pdb
+/Users/baylenjones/dev/fullsail/programming1/HighScoreTable/HighScoreTable/obj/Release/HighScoreTable.csproj.AssemblyReference.cache
+/Users/baylenjones/dev/fullsail/programming1/HighScoreTable/HighScoreTable/obj/Release/HighScoreTable.csproj.CoreCompileInputs.cache
+/Users/baylenjones/dev/fullsail/programming1/HighScoreTable/HighScoreTable/obj/Release/HighScoreTable.exe
+/Users/baylenjones/dev/fullsail/programming1/HighScoreTable/HighScoreTable/obj/Release/HighScoreTable.pdb

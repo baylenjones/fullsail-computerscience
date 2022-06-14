@@ -1,0 +1,14 @@
+C:/Users/marty/Documents/PG1/Working/FSO Version/Practicals/HighScoreTable/HighScoreTable/bin/Debug/HighScoreTable.exe.config
+C:/Users/marty/Documents/PG1/Working/FSO Version/Practicals/HighScoreTable/HighScoreTable/bin/Debug/HighScoreTable.exe
+C:/Users/marty/Documents/PG1/Working/FSO Version/Practicals/HighScoreTable/HighScoreTable/bin/Debug/HighScoreTable.pdb
+C:/Users/marty/Documents/PG1/Working/FSO Version/Practicals/HighScoreTable/HighScoreTable/obj/Debug/HighScoreTable.csprojAssemblyReference.cache
+C:/Users/marty/Documents/PG1/Working/FSO Version/Practicals/HighScoreTable/HighScoreTable/obj/Debug/HighScoreTable.csproj.CoreCompileInputs.cache
+C:/Users/marty/Documents/PG1/Working/FSO Version/Practicals/HighScoreTable/HighScoreTable/obj/Debug/HighScoreTable.exe
+C:/Users/marty/Documents/PG1/Working/FSO Version/Practicals/HighScoreTable/HighScoreTable/obj/Debug/HighScoreTable.pdb
+/Users/baylenjones/dev/fullsail/programming1/HighScoreTable/HighScoreTable/obj/Debug/HighScoreTable.csproj.AssemblyReference.cache
+/Users/baylenjones/dev/fullsail/programming1/HighScoreTable/HighScoreTable/obj/Debug/HighScoreTable.csproj.CoreCompileInputs.cache
+/Users/baylenjones/dev/fullsail/programming1/HighScoreTable/HighScoreTable/obj/Debug/HighScoreTable.exe
+/Users/baylenjones/dev/fullsail/programming1/HighScoreTable/HighScoreTable/obj/Debug/HighScoreTable.pdb
+/Users/baylenjones/dev/fullsail/programming1/HighScoreTable/HighScoreTable/bin/Debug/HighScoreTable.exe.config
+/Users/baylenjones/dev/fullsail/programming1/HighScoreTable/HighScoreTable/bin/Debug/HighScoreTable.exe
+/Users/baylenjones/dev/fullsail/programming1/HighScoreTable/HighScoreTable/bin/Debug/HighScoreTable.pdb

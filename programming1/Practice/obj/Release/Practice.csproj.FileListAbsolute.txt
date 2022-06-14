@@ -1,0 +1,7 @@
+/Users/baylenjones/dev/fullsail/programming1/Practice/bin/Release/Practice.exe.config
+/Users/baylenjones/dev/fullsail/programming1/Practice/bin/Release/Practice.exe
+/Users/baylenjones/dev/fullsail/programming1/Practice/bin/Release/Practice.pdb
+/Users/baylenjones/dev/fullsail/programming1/Practice/obj/Release/Practice.csproj.AssemblyReference.cache
+/Users/baylenjones/dev/fullsail/programming1/Practice/obj/Release/Practice.csproj.CoreCompileInputs.cache
+/Users/baylenjones/dev/fullsail/programming1/Practice/obj/Release/Practice.exe
+/Users/baylenjones/dev/fullsail/programming1/Practice/obj/Release/Practice.pdb
