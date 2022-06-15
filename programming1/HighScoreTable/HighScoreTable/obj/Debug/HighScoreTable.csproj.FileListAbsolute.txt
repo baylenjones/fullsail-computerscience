@@ -12,3 +12,11 @@ C:/Users/marty/Documents/PG1/Working/FSO Version/Practicals/HighScoreTable/HighS
 /Users/baylenjones/dev/fullsail/programming1/HighScoreTable/HighScoreTable/bin/Debug/HighScoreTable.exe.config
 /Users/baylenjones/dev/fullsail/programming1/HighScoreTable/HighScoreTable/bin/Debug/HighScoreTable.exe
 /Users/baylenjones/dev/fullsail/programming1/HighScoreTable/HighScoreTable/bin/Debug/HighScoreTable.pdb
+C:\Users\bayle\dev\fullsail\programming1\HighScoreTable\HighScoreTable\bin\Debug\HighScoreTable.exe.config
+C:\Users\bayle\dev\fullsail\programming1\HighScoreTable\HighScoreTable\bin\Debug\HighScoreTable.exe
+C:\Users\bayle\dev\fullsail\programming1\HighScoreTable\HighScoreTable\bin\Debug\HighScoreTable.pdb
+C:\Users\bayle\dev\fullsail\programming1\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.csproj.AssemblyReference.cache
+C:\Users\bayle\dev\fullsail\programming1\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.csproj.SuggestedBindingRedirects.cache
+C:\Users\bayle\dev\fullsail\programming1\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.csproj.CoreCompileInputs.cache
+C:\Users\bayle\dev\fullsail\programming1\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.exe
+C:\Users\bayle\dev\fullsail\programming1\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.pdb
