@@ -58,8 +58,10 @@ namespace Lab_7A
 
         public bool Contains(float px, float py)
         {
+            float z = (px - mX) * (py - mX) + (py - mY) * (py - mY);
+
             bool results;
-            if ((px - mX) * (py - mX) + (py - mY) * (py - mY) <= mRadius * mRadius)
+            if ( z <= mRadius * mRadius)
             {
                 results = true;
             }
@@ -79,23 +81,12 @@ namespace Lab_7A
 
         {
 
-            /*create a StringBuilder instance*/
-
             StringBuilder str = new StringBuilder();
 
-            /*loop through array of strings*/
-
             for (int i = 0; i < names.Length; i++)
-
             {
-
-                /*append first letter of each string*/
-
                 str.Append(names[i][0]);
-
             }
-
-            /*return StringBuilder instance*/
 
             return str;
 

@@ -12,7 +12,7 @@ namespace FSPG1
 
             for(int i = 0; i < names.Length; i++)
             {
-                sb.Append(names[i], 0, 1);
+                sb.Append(names[i][0]);
             }
             return sb;
         }
