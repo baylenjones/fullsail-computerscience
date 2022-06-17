@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace Lab_7A
 {
-    public class textCodec
+    public class TextCodec
     {
         sbyte mOffset;
-        public textCodec(sbyte offset)
+        public TextCodec(sbyte offset)
         {
             mOffset = offset;
         }

@@ -58,38 +58,15 @@ namespace Lab_7A
 
         public bool Contains(float px, float py)
         {
-            float z = (px - mX) * (py - mX) + (py - mY) * (py - mY);
+            float z = (float)Math.Sqrt(((px - mX) * (px - mX)) + ((py - mY) * (py - mY)));
 
-            bool results;
-            if ( z <= mRadius * mRadius)
-            {
-                results = true;
-            }
-            else
-            {
-                results = false;
-            }
-            return results;
+            bool results = (z <= mRadius) ? results = true : results = false; return results;
+   
         }
 
         public float GetCircumference()
         {
             return Circumference;
-        }
-
-        public static StringBuilder acronym(string[] names)
-
-        {
-
-            StringBuilder str = new StringBuilder();
-
-            for (int i = 0; i < names.Length; i++)
-            {
-                str.Append(names[i][0]);
-            }
-
-            return str;
-
         }
 
     }

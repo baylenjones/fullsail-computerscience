@@ -49,14 +49,14 @@ namespace FSPG1
 
         public static string Test7(sbyte offset, string message)
         {
-            textCodec codec = new textCodec(offset);
+            TextCodec codec = new TextCodec(offset);
             codec.Encode(message);
             return codec.Encode(message);
         }
 
         public static string Test8(sbyte offset, string message)
         {
-            textCodec codec = new textCodec(offset);
+            TextCodec codec = new TextCodec(offset);
             codec.Decode(message);
             return codec.Decode(message);
         }
