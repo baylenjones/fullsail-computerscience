@@ -21,3 +21,8 @@ E:\PG1\Working\FSO Version\Labs\Lab 7A\Lab 7A\obj\Debug\Lab 7A.pdb
 C:\Users\bayle\dev\fullsail\programming1\Lab 7A\Lab 7A\obj\Debug\Lab 7A.csproj.AssemblyReference.cache
 C:\Users\bayle\dev\fullsail\programming1\Lab 7A\Lab 7A\obj\Debug\Lab 7A.csproj.SuggestedBindingRedirects.cache
 C:\Users\bayle\dev\fullsail\programming1\Lab 7A\Lab 7A\obj\Debug\Lab 7A.csproj.CoreCompileInputs.cache
+C:\Users\bayle\dev\fullsail\programming1\Lab 7A\Lab 7A\bin\Debug\Lab 7A.exe.config
+C:\Users\bayle\dev\fullsail\programming1\Lab 7A\Lab 7A\bin\Debug\Lab 7A.exe
+C:\Users\bayle\dev\fullsail\programming1\Lab 7A\Lab 7A\bin\Debug\Lab 7A.pdb
+C:\Users\bayle\dev\fullsail\programming1\Lab 7A\Lab 7A\obj\Debug\Lab 7A.exe
+C:\Users\bayle\dev\fullsail\programming1\Lab 7A\Lab 7A\obj\Debug\Lab 7A.pdb

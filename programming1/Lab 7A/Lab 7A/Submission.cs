@@ -17,34 +17,6 @@ namespace FSPG1
             return sb;
         }
 
-        public class Circle
-        {
-            float xPos;
-            float yPos;
-            float Radius;
-
-            public Circle(float x, float y, float radius)
-            {
-                x = xPos;
-                y = yPos;
-                radius = Radius;
-            }
-
-            public float GetX()
-            {
-                return xPos;
-            }
-
-            public float GetY()
-            {
-                return yPos;
-            }
-
-            public float GetRadius()
-            {
-                return Radius;
-            }
-        }
         public static object Test2(float x, float y, float radius)
         {
             Circle c1 = new Circle(x, y, radius);
@@ -53,32 +25,40 @@ namespace FSPG1
 
         public static object Test3(float x, float y, float radius)
         {
-            return null;
+            Circle c1 = new Circle(x, y, radius);
+            return c1;
         }
 
         public static object Test4(float x, float y, float radius)
         {
-            return null;
+            Circle c1 = new Circle(x, y, radius);
+            return c1;
         }
 
         public static object Test5(float x, float y, float radius)
         {
-            return null;
+            Circle c1 = new Circle(x, y, radius);
+            return c1;
         }
 
         public static int Test6(string str1, string str2, bool ignoreCase)
         {
-            return 0;
+            int result = String.Compare(str1, str2, ignoreCase);
+            return result;
         }
 
         public static string Test7(sbyte offset, string message)
         {
-            return null;
+            textCodec codec = new textCodec(offset);
+            codec.Encode(message);
+            return codec.Encode(message);
         }
 
         public static string Test8(sbyte offset, string message)
         {
-            return null;
+            textCodec codec = new textCodec(offset);
+            codec.Decode(message);
+            return codec.Decode(message);
         }
     }
 }
