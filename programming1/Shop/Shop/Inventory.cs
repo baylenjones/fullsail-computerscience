@@ -30,14 +30,8 @@ namespace Shop
         //       access/update the mGold member field).
         public int Gold
         {
-            get
-            {
-                return mGold;
-            }
-            set
-            {
-                Gold = this.mGold;
-            }
+            get { return mGold; }
+            set { this.mGold = value; }
         }
 
         // TODO: Write a method called AddItem that returns a bool and takes an Item parameter.

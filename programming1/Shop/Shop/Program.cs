@@ -61,27 +61,40 @@ namespace Shop
             // TODO: Define an Inventory object for the player,
             //		 an Inventory object for the store.
             
-            
-
+            Inventory playerInv = new Inventory();
+            Inventory storeInv = new Inventory();
 
             // TODO: Ask the user for their name and define a string for the
             //       name. Store their input in the string. If they entered 
             //       an empty string (e.g. "") assign them a default name.
-
+            string playerName = "Link";
+            Console.Write("What is thy name traveller? ");
+            string playerNameInput = Console.ReadLine();
+            
+            if(playerNameInput != "") { playerName = playerNameInput; }
 
             // TODO: Use the Gold property to give the player inventory 200 Gold.
-
+            playerInv.Gold = 200;
 
             // TODO: Use the AddItem method to add each item in the
             //		 PlayerStartingItems array to the player's inventory.
 
+            for(int i = 0; i < PlayerStartingItems.Length; i++)
+            {
+                playerInv.AddItem(PlayerStartingItems[i]);
+            }
 
             // TODO: Use the Gold property to give the store inventory 350 Gold.
 
+            storeInv.Gold = 350;
 
             // TODO: Use the AddItem method to add each item in the
             //		 StoreStartingItems array to the store's inventory.
 
+            for (int i = 0; i < StoreStartingItems.Length; i++)
+            {
+                storeInv.AddItem(StoreStartingItems[i]);
+            }
 
             while (true)
             {
@@ -92,7 +105,8 @@ namespace Shop
 
                     // TODO: Call the ShowInventories method and pass in the player's name,
                     //		 the player's inventory and the store's inventory.
-                    
+
+                    ShowInventories(playerName, playerInv, storeInv);
 
                     Console.SetCursorPosition(5, 18);
                     Console.Write("What would you like to do?"
@@ -117,6 +131,7 @@ namespace Shop
                 // TODO: Call the DoTransaction method and send it the player's name,
                 //		 the player's inventory, the store's inventory and the doBuy variable.
                 
+                DoTransaction(playerName, playerInv, storeInv, doBuy);
             }
 
             Console.Clear();
