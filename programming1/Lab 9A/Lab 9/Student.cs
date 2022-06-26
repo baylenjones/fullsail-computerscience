@@ -10,15 +10,56 @@ namespace Lab_9A
     {
         // Add member fields here
 
+        string lastname;
+        string firstname;
+        int ID;
 
         // Add default and overloaded constructors here
 
+        public Student()
+        {
+            this.lastname = "";
+            this.firstname = "";
+            this.ID = 1000000;
+        }
 
+        public Student(string last, string first, int id)
+        {
+            this.lastname = last;
+            this.firstname = first;
+            this.ID = id;
+        }
         // add Getters and Setters here
 
+        public string GetFirstName()
+        {
+            return this.firstname;
+        }
 
+        public string GetLastName()
+        {
+            return this.lastname;
+        }
 
+        public int GetIDNumber()
+        {
+            return this.ID;
+        }
 
+        public void SetFirstName(string x)
+        {
+            this.firstname = x;
+        }
+
+        public void SetLastName(string x)
+        {
+            this.lastname = x;
+        }
+
+        public void SetIDNumber(int x)
+        {
+            this.ID = x;
+        }
 
 
 
