@@ -1,4 +1,6 @@
 #include <iostream>
+#include <string>
+
 using namespace std;
 
 void clearBuffer() {
@@ -21,6 +23,7 @@ int InputNumber(string prompt) {
 
     return number;
 }
+
 
 void program1() {
 
@@ -47,9 +50,143 @@ void program2() {
     }
 }
 
+void program3() {
+    int a;
+    int b;
+    int c;
+    int resultA;
+    int resultB;
+
+    cout << "Please enter 3 numbers\n";
+    a = InputNumber("\nPlease enter value for A: ");
+    b = InputNumber("\nPlease enter value for B: ");
+    c = InputNumber("\nPlease enter value for C: ");
+
+    resultA = (a + 1 * b + 2 - c);
+    resultB = ((a + 1) * (b + 2) - c);
+
+    cout << "\n" << a << " + 1 * " << b << " - " << c << " = " << resultA;
+    cout << "\n" << "(" << a << " + 1) * (" << b << " + 2) - " << c << " = " << resultB << "\n";
+    system("pause");
+}
+
+void program4() {
+    cout << "Table of integral variable type ranges in C++:\n\ntype\trange\n\n-----------------------------------------\n\n";
+    cout << "ushort" << "\t\t" << "0 to " << USHRT_MAX << "\n\n";
+    cout << "short" << "\t\t" << SHRT_MIN << " to " << SHRT_MAX << "\n\n";
+    cout << "int" << "\t\t" << INT_MIN << " to " << INT_MAX  << "\n\n";
+    cout << "uint" << "\t\t" << "0 to " << SHRT_MAX  << "\n\n";
+    cout << "longlong" << "\t" << LONG_MIN << " to " << LONG_MAX << "\n\n";
+    cout << "ulonglong" << "\t" << "0 to " << SHRT_MAX << "\n\n";
+
+    system("pause");
+}
+
+void program5() {
+    char name[32];
+
+    cout << "Please enter your name: ";
+    cin.getline(name, 32);
+
+    cout << "Hello there " << name << ". did you know that tomatoes are scientifically fruits.\nbut declared to be vegtables in the U.S to avoid legal taxation from imports\n\n";
+    system("pause");
+}
+
+void program6() {
+    int age;
+
+    age = InputNumber("How old are you? ");
+    
+    if (age < 16) {
+        cout << "\nIm sorry but you're too young to play this game. Bye!\n\n";
+    }
+    else { cout << "You're a quarter of a century old!  Your life is slowly slipping away.\n\n"; }
+
+    system("pause");
+}
+
+void program7() {
+    int num;
+
+    num = InputNumber("Please enter an even number: ");
+
+    if ((num % 2) == 0) {
+        cout << "\n\nNice!\n\n";
+    }
+    else { cout << "\n\nBOO!\n\n"; }
+
+    system("pause");
+}
+
+void program8() {
+    int div;
+    int a;
+
+    div = InputNumber("Please enter a divisor: ");
+    for (int i = 0; i < 3; i++) {
+        a = rand();
+
+        if ((a % div) == 0) {
+            cout << a << "\t-" << "YES!\n\n";
+        }
+        else {
+            cout << a << "\t-" << "NOOO!\n\n";
+        }
+    }
+    system("pause");
+}
+
+void program9() {
+    int choice;
+    choice = InputNumber("what color Popsicle would you like from the freezer ? \n1) Red\n2) Blue\n3) Green\n4) Orange\n\n:: ");
+
+    switch (choice) {
+    case 1:
+        cout << "\n\nPerfect for the Red White and Blue\n\n";
+        break;
+    case 2:
+        cout << "\n\nYou are so bluuuuuetiful\n\n";
+        break;
+    case 3:
+        cout << "\n\nGreen machine!!!\n\n";
+        break;
+    case 4:
+        cout << "\n\nWar Eagle!\n\n";
+        break;
+    default:
+        cout << "\n\nwell your all out of luck!!\n\n";
+    };
+
+    system("pause");
+}
+
+void program10() {
+    int choice;
+    int enemy;
+    choice = InputNumber("Please choose a Difficulty level: \n\n1) Easy\n\n2) Medium\n\n3) Hard\n\n :: ");
+
+    switch (choice) {
+    case 1:
+        enemy = rand() % 25;
+        cout << "\n\nYou will fight " << enemy << " Kolbalds!\n\n";
+        break;
+    case 2:
+        enemy = rand() % 50 + 25;
+        cout << "\n\nYou will fight " << enemy << " Orcs!!!\n\n";
+        break;
+    case 3:
+        enemy = rand() % 100 + 50;
+        cout << "\n\nYou will fight " << enemy << " MindFlayers!!!\n\n";
+    default:
+        cout << "\n\nYou will fight basic math!!!\n\n";
+        break;
+    };
+    system("pause");
+}
+
 int main()
 {
-    program2();
+    program10();
     return 0;
 }
 
