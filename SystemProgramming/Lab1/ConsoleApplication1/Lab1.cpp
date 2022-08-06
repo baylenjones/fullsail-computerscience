@@ -41,6 +41,7 @@ void program1() {
 
 void program2() {
     int numbers[5];
+    
     for (int x = 0; x < 5; x++) {
         numbers[x] = InputNumber("Please enter a number: ");
     }
@@ -48,6 +49,8 @@ void program2() {
     for (int i = 0; i < 5; i++) {
         cout << numbers[i];
     }
+    cout << "\n\n";
+    system("pause");
 }
 
 void program3() {
@@ -66,7 +69,7 @@ void program3() {
     resultB = ((a + 1) * (b + 2) - c);
 
     cout << "\n" << a << " + 1 * " << b << " - " << c << " = " << resultA;
-    cout << "\n" << "(" << a << " + 1) * (" << b << " + 2) - " << c << " = " << resultB << "\n";
+    cout << "\n" << "(" << a << " + 1) * (" << b << " + 2) - " << c << " = " << resultB << "\n\n";
     system("pause");
 }
 
@@ -186,7 +189,59 @@ void program10() {
 
 int main()
 {
-    program10();
+    int choice;
+    string options[11] = { "1) Program 1", "2) Program 2", "3) Program 3", "4) Program 4", "5) Program 5", "6) Program 6", "7) Program 7", "8) Program 8", "9) Program 9", "10) Program 10", "11) EXIT", };
+    while (true) {
+        for (int i = 0; i < 11; i++) {
+            cout << options[i] << "\n";
+        }
+        choice = InputNumber("\nPlease choose a program to run: ");
+
+        switch (choice) {
+        case 1:
+            program1();
+            system("cls");
+            break;
+        case 2:
+            program2();
+            system("cls");
+            break;
+        case 3:
+            program3();
+            system("cls");
+            break;
+        case 4:
+            program4();
+            system("cls");
+            break;
+        case 5:
+            program5();
+            system("cls");
+            break;
+        case 6:
+            program6();
+            system("cls");
+            break;
+        case 7:
+            program7();
+            system("cls");
+            break;
+        case 8:
+            program8();
+            system("cls");
+            break;
+        case 9:
+            program9();
+            system("cls");
+            break;
+        case 10:
+            program10();
+            system("cls");
+            break;
+        case 11:
+            return 0;
+        };
+    }
     return 0;
 }
 
