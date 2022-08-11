@@ -17,6 +17,10 @@ struct Car {
 	EnumColorDefinition Color;
 };
 
+void repaintCar(Car* ptrCar, EnumColorDefinition newcolor) {
+	ptrCar->Color = newcolor;
+}
+
 void clearBuffer() {
 	cin.clear();
 	cin.ignore(INT_MAX, '\n');
@@ -62,10 +66,51 @@ void program2() {
 	}
 }
 
+void printCar(Car c) {
+	string color;
+
+	switch (c.Color) {
+	case 1:
+		color = "Red";
+		break;
+	case 2:
+		color = "White";
+		break;
+	case 3:
+		color = "Blue";
+		break;
+	default:
+		cout << "Invisible";
+		break;
+	};
+
+	cout << "Car: " << c.Year << " " << color << " " << c.Make << " " << c.Model << " with " << c.Mileage << " miles\n";
+}
+
+void printCarPointer(Car* c) {
+	string color;
+
+	switch (c.Color) {
+	case 1:
+		color = "Red";
+		break;
+	case 2:
+		color = "White";
+		break;
+	case 3:
+		color = "Blue";
+		break;
+	default:
+		cout << "Invisible";
+		break;
+	};
+
+	cout << "Car: " << c.Year << " " << color << " " << c.Make << " " << c.Model << " with " << c.Mileage << " miles\n";
+}
+
 void program3() {
 	Car cars[3];
 	int choice;
-	string color;
 
 	for (int i = 0; i < 3; i++) {
 		cout << "Please Enter Make of Vechile #" << (i+1) << ": ";
@@ -82,26 +127,19 @@ void program3() {
 		system("cls");
 	}
 
-	cout << "Vechiles:\n\n";
+	Car* pointers[3];
+	pointers[0] = &cars[0];
+	pointers[1] = &cars[1];
+	pointers[2] = &cars[2];
 
-	for (int i = 0; i < 3; i++) {
-		switch (cars[i].Color) {
-		case 1:
-			color = "Red";
-			break;
-		case 2:
-			color = "White";
-			break;
-		case 3:
-			color = "Blue";
-			break;
-		default:
-			cout << "Invisible";
-			break;
-		};
-
-		cout << "Car " << (i + 1) << ": " << cars[i].Year << " " << color << " " << cars[i].Make << " " << cars[i].Model << " with " << cars[i].Mileage << " miles\n";
-	}
+	cout << "Printing Cars:\n\n";
+	printCar(cars[0]);
+	printCar(cars[1]);
+	printCar(cars[2]);
+	cout << "\nPinting Car Pointers:\n\n";
+	printCarPointer(pointers[0]);
+	printCarPointer(pointers[1]);
+	printCarPointer(pointers[2]);
 }
 
 int main() {
