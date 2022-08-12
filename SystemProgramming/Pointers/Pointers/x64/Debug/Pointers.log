@@ -1,4 +1,2 @@
 ﻿  Pointers.cpp
-C:\Users\bayle\dev\FullSail\fullsailUniversity\SystemProgramming\Pointers\Pointers\Pointers.cpp(93,12): error C2228: left of '.Color' must have class/struct/union
-C:\Users\bayle\dev\FullSail\fullsailUniversity\SystemProgramming\Pointers\Pointers\Pointers.cpp(93,12): message : type is 'Car *'
-C:\Users\bayle\dev\FullSail\fullsailUniversity\SystemProgramming\Pointers\Pointers\Pointers.cpp(93,12): message : did you intend to use '->' instead?
+  Pointers.vcxproj -> C:\Users\bayle\dev\FullSail\fullsailUniversity\SystemProgramming\Pointers\x64\Debug\Pointers.exe

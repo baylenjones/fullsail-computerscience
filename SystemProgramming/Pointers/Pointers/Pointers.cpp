@@ -50,6 +50,7 @@ void program1() {
 		numbers[i] = rand();
 		cout << "Number " << (i+1) << ": " << numbers[i] << "\tAddress: " << &numbers[i] << endl;
 	}
+	system("pause");
 }
 
 void printAddress(int num, int* pointer) {
@@ -64,6 +65,7 @@ void program2() {
 		int* pointer = &numbers[i];
 		printAddress(numbers[i], pointer);
 	}
+	system("pause");
 }
 
 void printCar(Car c) {
@@ -80,7 +82,7 @@ void printCar(Car c) {
 		color = "Blue";
 		break;
 	default:
-		cout << "Invisible";
+		color = "Invisible";
 		break;
 	};
 
@@ -90,7 +92,7 @@ void printCar(Car c) {
 void printCarPointer(Car* c) {
 	string color;
 
-	switch (c.Color) {
+	switch ((*c).Color) {
 	case 1:
 		color = "Red";
 		break;
@@ -101,16 +103,22 @@ void printCarPointer(Car* c) {
 		color = "Blue";
 		break;
 	default:
-		cout << "Invisible";
+		color = "Invisible";
 		break;
 	};
 
-	cout << "Car: " << c.Year << " " << color << " " << c.Make << " " << c.Model << " with " << c.Mileage << " miles\n";
+	cout << "Car: " <<  (*c).Year << " " << color << " " << (*c).Make << " " << (*c).Model << " with " << (*c).Mileage << " miles\n";
+}
+
+void addMileage(Car* ptrCar, int milestoadd) {
+	(*ptrCar).Mileage = (*ptrCar).Mileage + milestoadd;
+	cout << "\n\n" << milestoadd << " Miles have been added to mileage. Total Mileage is: " << (*ptrCar).Mileage << "\n\n";
 }
 
 void program3() {
 	Car cars[3];
 	int choice;
+	int milestoadd;
 
 	for (int i = 0; i < 3; i++) {
 		cout << "Please Enter Make of Vechile #" << (i+1) << ": ";
@@ -127,22 +135,46 @@ void program3() {
 		system("cls");
 	}
 
-	Car* pointers[3];
-	pointers[0] = &cars[0];
-	pointers[1] = &cars[1];
-	pointers[2] = &cars[2];
-
 	cout << "Printing Cars:\n\n";
 	printCar(cars[0]);
 	printCar(cars[1]);
 	printCar(cars[2]);
 	cout << "\nPinting Car Pointers:\n\n";
-	printCarPointer(pointers[0]);
-	printCarPointer(pointers[1]);
-	printCarPointer(pointers[2]);
+	printCarPointer(&cars[0]);
+	printCarPointer(&cars[1]);
+	printCarPointer(&cars[2]);
+	milestoadd = InputNumber("Please enter miles you need to add: ");
+	addMileage(&cars[0], milestoadd);
+	system("pause");
 }
 
 int main() {
-	program3();
+	int selection;
+	string options[4] = { "1) Program 1", "2) Program 2", "3) Program 3", "4) Exit"};
+
+	while (true) {
+		system("cls");
+		for (int i = 0; i < 4; i++) {
+			cout << options[i] << endl;
+		}
+		selection = InputNumber("\nPlease choose a program: ");
+
+		switch (selection) {
+		case 1:
+			program1();
+			break;
+		case 2:
+			program2();
+			break;
+		case 3:
+			program3();
+			break;
+		case 4:
+			return 0;
+		default:
+			continue;
+		}
+	}
+
 	return 0;
 }
