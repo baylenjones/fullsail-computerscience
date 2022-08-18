@@ -1,1 +1,12 @@
 Write your debugging steps and thought process here (This is part of your grade)
+1. run Debug and identify the number of memory leaks (30+).
+2. read through code, identify New keyword for memory allocation. Match up delete calls. if no delete call, insert a delete[] call where appropriate
+	as not to break the program or change its intended design.
+3. items fixed:
+	store s
+	helperItem
+	m_Inventories
+	m_Value
+	nSize
+4. review classes and functions to make sure all are being properly deallocated in destructors.
+5. rerun debug to identify memory leaks (0 left);

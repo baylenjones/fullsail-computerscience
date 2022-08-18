@@ -8,5 +8,6 @@ class Store
 
 public:
 	Store();
+	~Store();
 	void Print() const;
 };

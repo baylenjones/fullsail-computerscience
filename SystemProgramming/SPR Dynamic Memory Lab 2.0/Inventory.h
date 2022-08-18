@@ -17,11 +17,19 @@ class Inventory
 	}
 
 public:
-	Inventory()
+	Inventory() 
 	{
 		CreateItem();
 		CreateItem();
 		CreateItem();
+	}
+
+	~Inventory() {
+		for (auto item : m_Items) {
+			delete item;
+			item = nullptr;
+		}
+		m_Items.clear();
 	}
 
 	void Print() const
@@ -32,5 +40,8 @@ public:
 		{
 			m_Items[i]->Print();
 		}
+
+		delete nSize;
+		nSize = nullptr;
 	}
 };

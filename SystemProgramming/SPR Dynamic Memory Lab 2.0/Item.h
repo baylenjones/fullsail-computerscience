@@ -13,5 +13,6 @@ class Item
 
 public:
 	Item(const char* _name, int _value);
+	~Item();
 	void Print() const;
 };

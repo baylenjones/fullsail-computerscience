@@ -19,4 +19,6 @@ void ScopeMain()
 
 	Store* s = new Store();
 	s->Print();
+	delete s;
+	s = nullptr;
 }
