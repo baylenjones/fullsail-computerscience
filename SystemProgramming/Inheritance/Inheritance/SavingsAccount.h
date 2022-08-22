@@ -1,7 +1,12 @@
+#pragma once
 #include "BaseAccount.h"
 #include<iostream>
 
-class SavingsAccount : BaseAccount {
+class SavingsAccount : public BaseAccount {
+public:
+
+	SavingsAccount(){};
+
 	void Withdraw(float amount) {
 		if (withdraws < 4) {
 			BaseAccount::Withdraw(amount);

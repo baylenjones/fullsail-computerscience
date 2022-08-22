@@ -1,3 +1,4 @@
+#pragma once
 class BaseAccount {
 
 	protected:
@@ -7,16 +8,20 @@ class BaseAccount {
 	public:
 		
 		void Withdraw(float amount) {
-		balance = balance - amount;
-		withdraws++;
+			balance = balance - amount;
+			withdraws++;
 		}
 
 		void Deposit(float amount) {
-		balance = balance + amount;
+			balance = balance + amount;
 		}
 
-		float GetBalnce() {
+		float GetBalance() {
 			return balance;
+		}
+
+		void SetBalance(float amount) {
+			balance = amount;
 		}
 
 };
