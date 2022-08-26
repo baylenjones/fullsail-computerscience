@@ -132,8 +132,8 @@
     <ClCompile Include="TriangleStack.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="TriangleHeap.h" />
     <ClInclude Include="TriangleStack.h" />
+    <ClInclude Include="TriangleHeap.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

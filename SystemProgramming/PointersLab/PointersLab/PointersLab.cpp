@@ -21,28 +21,23 @@ int main()
     float* Dptr = &d;
     float* sumPtr = &sum;
 
-    TriangleStack tri1;
-    TriangleStack tri2;
-    TriangleHeap Tri1;
-    TriangleHeap Tri2;
+    TriangleHeap tri1(Aptr, Bptr);
+    TriangleHeap tri2(Cptr, Dptr);
+    TriangleStack Tri1(a, b);
+    TriangleStack Tri2(d, c);
 
-    tri1.Set(Aptr, Bptr);
-    tri2.Set(Cptr, Dptr);
-    Tri1.Set(a, b);
-    Tri2.Set(c, d);
+    vector<TriangleHeap> listHeap;
+    vector<TriangleStack> ListStack;
+    listHeap.push_back(tri1);
+    listHeap.push_back(tri2);
+    ListStack.push_back(Tri1);
+    ListStack.push_back(Tri2);
 
-    vector<TriangleStack> listStack;
-    vector<TriangleHeap> ListHeap;
-    listStack.push_back(tri1);
-    listStack.push_back(tri2);
-    ListHeap.push_back(Tri1);
-    ListHeap.push_back(Tri2);
-
-    for (TriangleStack x : listStack) {
+    for (TriangleHeap x : listHeap) {
         cout << x.GetArea() << endl;
     }
 
-    for (TriangleHeap x : ListHeap) {
+    for (TriangleStack x : ListStack) {
         cout << x.GetArea() << endl;
     }
     system("pause");

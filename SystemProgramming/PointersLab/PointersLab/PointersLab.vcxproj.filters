@@ -26,10 +26,10 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="TriangleStack.h">
+    <ClInclude Include="TriangleHeap.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="TriangleHeap.h">
+    <ClInclude Include="TriangleStack.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
