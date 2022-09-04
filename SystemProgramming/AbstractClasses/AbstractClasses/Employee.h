@@ -1,20 +1,10 @@
-#pragma once
-#include<iostream>
 #include "Base.h"
-using namespace std;
-
-class Employee : Base
+class Employee : public Base
 {
+public:
+	Employee();
+	void SetSalary(int);
+	virtual void DisplayRecord() override;
 private:
 	int salary;
-
-public:
-	void SetSalary(int a) {
-		salary = a;
-	}
-
-	virtual void DisplayRecord() {
-		cout << GetName() << "\t" << salary;
-	}
 };
-

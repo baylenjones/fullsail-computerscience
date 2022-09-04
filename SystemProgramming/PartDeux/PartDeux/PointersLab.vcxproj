@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{962dfcba-78b7-4323-8c54-297207b1a58d}</ProjectGuid>
-    <RootNamespace>AbstractClasses</RootNamespace>
+    <ProjectGuid>{00eef714-e33b-46bb-97fb-aedc7f465b47}</ProjectGuid>
+    <RootNamespace>PointersLab</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,15 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="AbstractClasses.cpp" />
-    <ClCompile Include="Base.cpp" />
-    <ClCompile Include="Employee.cpp" />
-    <ClCompile Include="Student.cpp" />
+    <ClCompile Include="PartDeux.cpp" />
+    <ClCompile Include="TriangleHeap.cpp" />
+    <ClCompile Include="TriangleStack.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Base.h" />
-    <ClInclude Include="Employee.h" />
-    <ClInclude Include="Student.h" />
+    <ClInclude Include="TriangleStack.h" />
+    <ClInclude Include="TriangleHeap.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

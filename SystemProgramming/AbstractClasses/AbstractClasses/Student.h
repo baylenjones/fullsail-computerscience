@@ -1,18 +1,10 @@
-#pragma once
-#include<iostream>
 #include "Base.h"
-using namespace std;
-class Student : Base
+class Student : public Base
 {
-private:
-	float gpa;
 public:
-	void SetGPA(float a) {
-		gpa = a;
-	}
-
-	virtual void DisplayRecord() {
-		cout << GetName() << "\t" << gpa;
-	}
+	Student();
+	void SetGPA(float);
+	virtual void DisplayRecord() override;
+private:
+	float GPA;
 };
-

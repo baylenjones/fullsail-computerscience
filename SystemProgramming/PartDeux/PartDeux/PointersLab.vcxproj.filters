@@ -15,27 +15,21 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="AbstractClasses.cpp">
+    <ClCompile Include="PartDeux.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Base.cpp">
+    <ClCompile Include="TriangleStack.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Employee.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Student.cpp">
+    <ClCompile Include="TriangleHeap.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Base.h">
+    <ClInclude Include="TriangleHeap.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Employee.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Student.h">
+    <ClInclude Include="TriangleStack.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
