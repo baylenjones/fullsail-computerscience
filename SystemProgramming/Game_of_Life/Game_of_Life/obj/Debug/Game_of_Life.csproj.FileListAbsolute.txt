@@ -9,3 +9,4 @@ C:\Users\bayle\dev\FullSail\fullsailUniversity\SystemProgramming\Game_of_Life\Ga
 C:\Users\bayle\dev\FullSail\fullsailUniversity\SystemProgramming\Game_of_Life\Game_of_Life\obj\Debug\Game_of_Life.csproj.CoreCompileInputs.cache
 C:\Users\bayle\dev\FullSail\fullsailUniversity\SystemProgramming\Game_of_Life\Game_of_Life\obj\Debug\Game_of_Life.exe
 C:\Users\bayle\dev\FullSail\fullsailUniversity\SystemProgramming\Game_of_Life\Game_of_Life\obj\Debug\Game_of_Life.pdb
+C:\Users\bayle\dev\FullSail\fullsailUniversity\SystemProgramming\Game_of_Life\Game_of_Life\obj\Debug\Game_of_Life.ModalDialog.resources
